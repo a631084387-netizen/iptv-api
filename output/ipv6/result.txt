@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-25 20:24:26,https://www.freetv.top/migu/631780532.m3u8?migutoken=8a73f9dbcc6da55c0bb099a7d335fcdb754c606cf8a5e21cb3b84173052074a311761bfb95b1cf7185e4db2b24a0b5d21a4807e6b6bf8c462395f81b3895c1026a645db32431ff0cf541e1991f$订阅源
+2026-06-27 19:35:14,https://www.freetv.top/migu/631780532.m3u8?migutoken=8a73f9dbcc6da55c0bb099a7d335fcdb754c606cf8a5e21cb3b84173052074a311761bfb95b1cf7185e4db2b24a0b5d21a4807e6b6bf8c462395f81b3895c1026a645db32431ff0cf541e1991f$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=8a73f9dbcc6da55c0bb099a7d335fcdb754c606cf8a5e21cb3b84173052074a311761bfb95b1cf7185e4db2b24a0b5d21a4807e6b6bf8c462395f81b3895c1026a645db32431ff0cf541e1991f$订阅源
@@ -178,8 +178,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac00
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=61e4fd9bf58ef5793a154534fc3b69a6905900f2133acd6c3fe723e7b4520ad20ebd351ceb44d42a3a09fa5e7e402be1cec3e5c93b1a07ac90681ef873a367d7cb68040b3be9d7873347efa755$订阅源
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=b49395c0adad3f977a69d9555b7ec0e60a9f6076a9bd17687472774c39f5e60c68b55ab46fdf0d73b68a871b71b438163c9ae6604499693eb260ed04ebe98df3f12124410b199e0741f3429b11$订阅源
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
-海南卫视,http://x1x.bid:5146/rtp/239.3.1.45:8304$订阅源
-海南卫视,http://x1x.bid:5146/rtp/239.3.1.45:8304$订阅源
 河北卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86$订阅源
 河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=3fa5112cca2c2ce74028510dfbaacbc2dce25969982adc457060f0def4c56e2d5efdeb3d0e4ef181a2255dd07c1e7723b5bee70da78172e50618743c5eac8808279282803f9488156ec4d7dbac$订阅源
 河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=8cfda6b4bd8593bb9739434fecdd1cd097ab9b9609ed72d6de4ca14196c33fbc5ea88d4dae5a4c8a359213f9affc7ab2cf675a934561839e4060ba75bd56e43da713a62e3ebabc4ced1c770bca$订阅源
@@ -267,41 +265,41 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac00
 深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 
 🌊港·澳·台,#genre#
+翡翠台,https://cdn6.163189.xyz/163189/fct$订阅源
+翡翠台,https://cdn6.163189.xyz/163189/fct$订阅源
 翡翠台,http://cdn6.163189.xyz/163189/fct$订阅源
 翡翠台,http://cdn6.163189.xyz/163189/fct$订阅源
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/$订阅源
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/$订阅源
-翡翠台,https://cdn6.163189.xyz/163189/fct$订阅源
-翡翠台,https://cdn6.163189.xyz/163189/fct$订阅源
 翡翠台,http://r.jdshipin.com/thuYX$订阅源
 翡翠台,http://r.jdshipin.com/thuYX$订阅源
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 明珠台,http://r.jdshipin.com/jUx8K$订阅源
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
 明珠台,http://php.jdshipin.com/smt.php?id=pearl_twn$订阅源
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw$订阅源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$订阅源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php$订阅源
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx$订阅源
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php$订阅源
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8$订阅源
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk$订阅源
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8$订阅源
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$订阅源
@@ -318,8 +316,6 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$订阅源
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8$订阅源
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 
 🎬电影频道,#genre#
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源
@@ -403,20 +399,15 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ad38294ea17b61fb4e3
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=b3f5f563a0e87a8d4215ce2f21de8c4ba355f6b7cecac5f686433bc2809f1a670c2454c39a4c60e3d446e610daf4c9bb26feea0ee07ed55a05d6b332b10381aa4ffb12bb3db425336f25a43987$订阅源
 
 🏛经典剧场,#genre#
+笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
+笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
+笑傲江湖,https://live.metshop.top/huya/23865142$订阅源
 笑傲江湖,https://live.ottiptv.cc/huya/26355790$订阅源
 笑傲江湖,https://live.ottiptv.cc/huya/26355790$订阅源
 笑傲江湖,https://live.ottiptv.cc/huya/23865142$订阅源
-笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790$订阅源
-笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790$订阅源
-笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142$订阅源
-笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
-笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903$订阅源
 三国演义,https://live.ottiptv.cc/huya/11602081$订阅源
-三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081$订阅源
 水浒传,https://live.ottiptv.cc/yy/1353873252$订阅源
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667$订阅源
 封神榜,https://live.ottiptv.cc/huya/29465849$订阅源
-封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849$订阅源
 射雕英雄传,https://live.ottiptv.cc/huya/23824164$订阅源
-射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164$订阅源
